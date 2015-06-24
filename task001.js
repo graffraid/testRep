@@ -1,7 +1,7 @@
 ﻿$(function () {
 
     function sayHello() {
-		//ToDo
+		alert('fU');
     }
 
 	sayHello();
